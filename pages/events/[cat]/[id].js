@@ -1,17 +1,17 @@
-import SingleEvent from '../../../src/components/events/single-event';
+import SingleBlog from "../../../src/components/events/single-event";
 
-const EventPage = ({ data }) => <SingleEvent data={data} />;
+const BlogPage = ({ data }) => <SingleBlog data={data} />;
 
-export default EventPage;
+export default BlogPage;
 
 export async function getStaticPaths() {
-  const data = await import('/data/data.json');
-  const allEvents = data.allEvents;
+  const data = await import("/data/data.json");
+  const allBlogs = data.allBlogs;
 
-  const allPaths = allEvents.map((path) => {
+  const allPaths = allBlogs.map((path) => {
     return {
       params: {
-        cat: path.city,
+        category: path.type,
         id: path.id,
       },
     };
@@ -26,10 +26,10 @@ export async function getStaticPaths() {
 export async function getStaticProps(context) {
   console.log(context);
   const id = context.params.id;
-  const { allEvents } = await import('/data/data.json');
-  const eventData = allEvents.find((ev) => id === ev.id);
+  const { allBlogs } = await import("/data/data.json");
+  const blogData = allBlogs.find((blog) => id === blog.id);
 
   return {
-    props: { data: eventData },
+    props: { data: blogData },
   };
 }

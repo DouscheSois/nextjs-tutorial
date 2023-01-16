@@ -1,17 +1,17 @@
-import Link from 'next/link';
-import Image from 'next/image';
+import Link from "next/link";
+import Image from "next/image";
 
 export const HomePage = ({ data }) => (
   <div className="home_body">
-    {data?.map((ev) => (
-      <Link key={ev.id} href={`/events/${ev.id}`} passHref>
-        <a className="card" href={`/events/${ev.id}`}>
+    {data?.map((blog) => (
+      <Link key={blog.id} href={`/blogs/${blog.id}`} passHref>
+        <a className="card" href={`/blogs/${blog.id}`}>
           <div className="image">
-            <Image width={600} height={400} alt={ev.title} src={ev.image} />
+            <Image width={600} height={400} alt={blog.title} src={blog.image} />
           </div>
           <div className="content">
-            <h2> {ev.title} </h2>
-            <p> {ev.description} </p>
+            <h2> {blog.title} </h2>
+            <p> {blog.description} </p>
           </div>
         </a>
       </Link>
