@@ -1,4 +1,4 @@
-import SingleBlog from "../../../src/components/events/single-event";
+import SingleBlog from "../../../src/components/blogs/single-blog";
 
 const BlogPage = ({ data }) => <SingleBlog data={data} />;
 

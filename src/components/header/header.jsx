@@ -1,12 +1,17 @@
-import Link from 'next/link';
-import Image from 'next/image';
+import Link from "next/link";
+import Image from "next/image";
 
 export const Header = () => {
   return (
     <header>
       <div>
         <div className="topNav">
-          <Image alt="logo" src={'/images/logo_black.png'} width={50} height={50} />
+          <Image
+            alt="logo"
+            src={"/images/logo_black.png"}
+            width={50}
+            height={50}
+          />
           <nav>
             <ul>
               <li>
@@ -15,8 +20,8 @@ export const Header = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/events" passHref>
-                  <a> Events</a>
+                <Link href="/blogs" passHref>
+                  <a> Blogs</a>
                 </Link>
               </li>
               <li>

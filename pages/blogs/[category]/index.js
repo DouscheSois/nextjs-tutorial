@@ -1,4 +1,4 @@
-import CategoryBlog from "../../../src/components/events/categoryBlog";
+import CategoryBlog from "../../../src/components/blogs/categoryBlog";
 
 const BlogsCategoryPage = ({ data, pageName }) => (
   <CategoryBlog data={data} pageName={pageName} />
@@ -27,7 +27,7 @@ export async function getStaticProps(context) {
   const id = context?.params.category;
   const { allBlogs } = await import("/data/data.json");
 
-  const data = allBlogs.filter((blog) => blog.city === id);
+  const data = allBlogs.filter((blog) => blog.type === id);
 
   return { props: { data, pageName: id } };
 }

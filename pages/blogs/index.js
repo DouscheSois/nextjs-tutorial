@@ -1,4 +1,4 @@
-import AllBlogs from "../../src/components/events/blogs-page";
+import AllBlogs from "../../src/components/blogs/blogs-page";
 
 const BlogsPage = ({ data }) => {
   return <AllBlogs data={data} />;

@@ -9,7 +9,7 @@ const CategoryBlog = ({ data, pageName }) => {
 
       <div className="content">
         {data.map((blog) => (
-          <Link key={blog.id} href={`/blogs/${blog.city}/${blog.id}`} passHref>
+          <Link key={blog.id} href={`/blogs/${blog.type}/${blog.id}`} passHref>
             <a className="card">
               <Image
                 width={300}
