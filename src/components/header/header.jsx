@@ -8,9 +8,9 @@ export const Header = () => {
         <div className="topNav">
           <Image
             alt="logo"
-            src={"/images/logo_black.png"}
-            width={50}
-            height={50}
+            src={"/images/amzbuyersguide.png"}
+            width={150}
+            height={10}
           />
           <nav>
             <ul>
@@ -32,7 +32,9 @@ export const Header = () => {
             </ul>
           </nav>
         </div>
-        <p className="title"> Sed ut perspiciatis unde omnis</p>
+        <p className="title">
+          Your friend in helping you navigate AMZ's wide selection!
+        </p>
       </div>
     </header>
   );

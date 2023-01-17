@@ -3,10 +3,41 @@ ul {
 }
 
 header {
-  height: 300px;
+  height: 30vh;
   background: linear-gradient(355deg, #2c74b3, transparent);
-  padding: 15px 30px;
+  padding: 5px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
+header h1 {
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+header nav {
+  width: 100%;
+  max-width: 1250px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
+header nav ul li {
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+
 header > div {
   width: 100%;
   max-width: 1250px;
@@ -16,25 +47,24 @@ header > div {
   justify-content: space-between;
 }
 header .title {
-  width: 50%;
-  font-size: 40px;
-  text-transform: uppercase;
+  width: 100%;
+  font-size: 25px;
 }
 header .topNav {
   display: flex;
   justify-content: space-between;
   align-content: center;
 }
-header .topNav ul {
+/* header .topNav ul {
   display: flex;
   text-decoration: none;
   list-style: none;
-  gap: 15px;
+  gap: 10px;
 }
 header .topNav ul li {
   font-weight: 600;
-  font-size: 16px;
-}
+  font-size: 20px;
+} */
 
 footer {
   background-color: #333;
