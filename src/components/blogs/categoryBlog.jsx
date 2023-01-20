@@ -18,7 +18,7 @@ const CategoryBlog = ({ data, pageName }) => {
                 src={blog.image}
               />
               <h2> {blog.title} </h2>
-              <p> {blog.description} </p>
+              <small>{blog.date}</small>
             </a>
           </Link>
         ))}

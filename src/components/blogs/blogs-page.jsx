@@ -12,8 +12,8 @@ const AllBlogs = ({ data }) => {
               <Image
                 src={blog.image}
                 alt={blog.title}
-                width={500}
-                height={500}
+                width={700}
+                height={700}
               />
               <h2>{blog.title} </h2>
             </a>

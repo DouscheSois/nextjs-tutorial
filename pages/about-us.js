@@ -44,7 +44,7 @@ const AboutUsPage = () => {
           </p>
         </li>
       </ul>
-      <h4>"Thank you for Trusting Us" - Roger Alexander, CEO</h4>
+      <h4>"Thank you for Trusting Us" - Roger Alexander, Head Writer</h4>
     </div>
   );
 };

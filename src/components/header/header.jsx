@@ -6,12 +6,14 @@ export const Header = () => {
     <header>
       <div>
         <div className="topNav">
-          <Image
-            alt="logo"
-            src={"/images/amzbuyersguide.png"}
-            width={150}
-            height={10}
-          />
+          <Link href="/" passHref>
+            <Image
+              alt="logo"
+              src={"/images/amzbuyersguide.png"}
+              width={150}
+              height={10}
+            />
+          </Link>
           <nav>
             <ul>
               <li>
@@ -33,7 +35,8 @@ export const Header = () => {
           </nav>
         </div>
         <p className="title">
-          Your friend in helping you navigate AMZ's wide selection!
+          Find the perfect fit for you with our expert guidance on AMZ's vast
+          selection.
         </p>
       </div>
     </header>
