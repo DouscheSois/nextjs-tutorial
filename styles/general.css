@@ -189,4 +189,14 @@ main {
       }
     }
   }
+
+  .category_blogs .content {
+    align-items: center;
+    justify-content: center;
+  }
+  .category_blogs .content .card {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+  }
 }
