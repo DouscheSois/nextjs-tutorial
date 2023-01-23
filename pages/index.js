@@ -5,9 +5,13 @@ export default function Home({ data }) {
   return (
     <div>
       <Head>
-        <title>Blogs app</title>
-
-        <link rel="icon" href="/favicon.ico" />
+        <title>AMZ Buyers Guide</title>
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/images/amzicon.png"
+        />
       </Head>
 
       <HomePage data={data} />

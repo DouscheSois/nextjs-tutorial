@@ -27,6 +27,21 @@
   ],
   "allBlogs": [
     {
+      "id": "blog016",
+      "title": "Microsoft Surface Pro 8",
+      "longer_title": "Microsoft Surface Pro 8-13 inch Touchscreen - Intel® Evo Platform Core™ i7-16GB Memory - 256GB SSD - Device Only - Platinum (Latest Model)",
+      "type": "pc-and-pc-components",
+      "description_1": "Introducing the Microsoft Surface Pro 8-13 inch, the ultimate portable device that has been designed to give you the ultimate computing experience. With its powerful Intel® Evo Platform Core™ i7 processor and 16GB of memory, this device is built to handle even the most demanding tasks with ease. Whether you're working on a presentation, editing a video or simply browsing the web, the Surface Pro 8-13 inch delivers a smooth and seamless performance.",
+      "description_2": "The Surface Pro 8 comes with a large and vibrant 13 inch touchscreen display, making it perfect for those who want a device that is easy to use and navigate. The display is not only bright and clear but also supports touch, pen, and keyboard input which allows for a more natural and intuitive computing experience.",
+      "description_3": "One of the best things about the Surface Pro 8 is its portability. With a slim and lightweight design, this device is perfect for those who are always on the go. Whether you're traveling for work or simply want a device that you can take with you wherever you go, the Surface Pro 8 is the perfect choice.",
+      "description_4": "The Surface Pro 8 also comes with a generous 256GB SSD, providing you with more than enough storage space for all your important files and documents. This makes it easy to keep your work and personal files organized and accessible, wherever you are.",
+      "description_5": "In conclusion, the Microsoft Surface Pro 8 is a powerful, portable, and versatile device that is perfect for anyone who needs a device that can keep up with their busy lifestyle. With its powerful processor, large touchscreen display, and generous storage, the Surface Pro 8 is the ultimate device for work and play, and it is available now. Get yours today and experience the ultimate computing experience!",
+      "writer_word": "Hey, have you heard about the new Microsoft Surface Pro 8? It's the ultimate portable device that I just got and I have to say, I am really impressed. It has a powerful Intel® Evo Platform Core™ i7 processor, 16GB of memory, and a large 13 inch touchscreen display, making it perfect for work and play. Plus, it's so lightweight and portable, I can take it with me wherever I go. But what I love the most about it, is its 256GB SSD storage, It has more than enough space to store all my important files and documents. It's also very easy to use and navigate, the touch, pen and keyboard input makes it very natural and intuitive. I highly recommend it if you're in the market for a new portable device.",
+      "image": "https://m.media-amazon.com/images/I/71dpVo75lrL._AC_SX679_.jpg",
+      "date": "Jan 23, 2023",
+      "affiliate_link": "https://amzn.to/3H4GEnS"
+    },
+    {
       "id": "blog001",
       "title": "Apple 2020 MacBook Air Laptop M1 Chip",
       "longer_title": "Apple 2020 MacBook Air Laptop M1 Chip, 13 inch Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Gray",
@@ -72,8 +87,23 @@
       "affiliate_link": "https://amzn.to/3XHbgmk"
     },
     {
+      "id": "blog015",
+      "title": "Beats Studio3",
+      "longer_title": "Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 22 Hours of Listening Time, Built-in Microphone - Matte Black (Latest Model)",
+      "type": "headphones",
+      "description_1": "The Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones are the latest model of headphones from the popular brand Beats. These headphones feature an Apple W1 Headphone Chip, which allows for seamless pairing with Apple devices and Class 1 Bluetooth connectivity for easy pairing with other devices. With 22 hours of listening time, you can enjoy your music, podcasts or audiobooks for hours on end without needing to recharge.",
+      "description_2": "One of the standout features of these headphones is the active noise cancelling technology. This feature blocks out external noise, allowing you to fully immerse yourself in your music or audio content. Whether you're working in a noisy office or traveling on a plane, the noise cancelling technology will help you focus on your audio and block out distractions.",
+      "description_3": "Another great feature of the Beats Studio3 headphones is the built-in microphone. This allows for easy hands-free calling and voice commands, giving you the freedom to stay connected without needing to take off your headphones. The microphone also features advanced noise cancelling technology, ensuring that your voice is clearly heard during calls.",
+      "description_4": "The Beats Studio3 headphones are also built to last. With a durable and premium design, these headphones are made to withstand the wear and tear of daily use. The ear cups are also made with a soft and breathable material, making them comfortable to wear for long periods of time.",
+      "description_5": "The Matte Black color of the Beats Studio3 headphones gives them a sleek and stylish look, making them perfect for any occasion. Whether you're working out at the gym or sitting in a coffee shop, these headphones will look and feel great. With all these features, the Beats Studio3 headphones are a perfect choice for anyone looking for a high-quality pair of wireless noise cancelling headphones.",
+      "writer_word": "The Beats Studio3 headphones are a great choice for anyone looking for a high-quality pair of wireless noise cancelling headphones. They come with an Apple W1 Headphone Chip, which makes them easy to connect to Apple devices and other devices with Bluetooth. They also have a long battery life of 22 hours, so you can enjoy your music or audio content for hours without needing to recharge. The noise cancelling feature of these headphones is really good. It blocks out external noise, so you can fully focus on your music or audio content. The built-in microphone also allows you to make calls or use voice commands without having to take off your headphones. They also look great and feel comfortable to wear for long periods of time, and they are durable and can withstand daily use.",
+      "image": "https://m.media-amazon.com/images/I/51-+O3-wFxL._AC_SX679_.jpg",
+      "date": "Jan 23, 2023",
+      "affiliate_link": "https://amzn.to/3iVXsW8"
+    },
+    {
       "id": "blog004",
-      "title": "Beats Solo3 Wireless On-Ear Headphones",
+      "title": "Beats Solo3",
       "longer_title": "Beats Solo3 Wireless On-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 40 Hours of Listening Time, Built-in Microphone - Black (Latest Model)",
       "type": "headphones",
       "description_1": "The Beats Solo3 Wireless On-Ear Headphones are a great buy for anyone looking for high-quality sound and a sleek, stylish design. These headphones feature the latest Apple W1 headphone chip, which provides Class 1 Bluetooth connectivity and an impressive 40 hours of listening time on a single charge.",
@@ -115,6 +145,21 @@
       "image": "https://m.media-amazon.com/images/I/61sRKTAfrhL._AC_SX679_.jpg",
       "date": "Jan 18, 2023",
       "affiliate_link": "https://amzn.to/3kr6Qlc"
+    },
+    {
+      "id": "blog014",
+      "title": "SAMSUNG Galaxy Tab S7",
+      "longer_title": "SAMSUNG Galaxy Tab S7 FE 12.4” 256GB WiFi Android Tablet w/ Large Screen, Long Lasting Battery, S Pen Included, Multi Device Connectivity, US Version, 2021, Mystic Black",
+      "type": "tablets",
+      "description_1": "The SAMSUNG Galaxy Tab S7 FE 12.4” is a high-performance Android tablet that offers a large screen and long-lasting battery life. With a 12.4” display, this tablet is perfect for streaming videos, browsing the web, and working on documents. The screen is also compatible with the S Pen, which is included with the tablet and can be used for taking notes, drawing, and more.",
+      "description_2": "The tablet is powered by a powerful processor and comes with 256GB of storage, making it more than capable of handling all of your computing needs. The battery life is also impressive, allowing you to use the tablet for extended periods of time without needing to recharge.",
+      "description_3": "The Galaxy Tab S7 FE also offers multi-device connectivity, allowing you to connect to other devices like smartphones or laptops. This means you can easily transfer files between devices or even use your tablet as a second screen for your computer.",
+      "description_4": "Additionally, the Tab S7 FE also features a 5G connectivity, providing you fast internet speeds and better network coverage. This makes it an ideal device for streaming and downloading large files, and for video conferencing with colleagues or friends.",
+      "description_5": "In conclusion, the SAMSUNG Galaxy Tab S7 FE 12.4” is a high-performance tablet that offers a large screen, long-lasting battery life, and multi-device connectivity. It's a perfect device for anyone who needs a powerful and versatile tablet that can keep up with their busy lifestyle. With its large screen, S Pen, and 5G connectivity, it is available now in Mystic Black color. Get yours today and experience the best of technology!",
+      "writer_word": "Hey, I just got this new tablet, the SAMSUNG Galaxy Tab S7 FE and I have to say, it's amazing. It has a large 12.4” screen and a long-lasting battery, making it perfect for streaming videos, browsing the web and working on documents. Plus, it comes with an S Pen which is great for taking notes, drawing and more. But what I love the most about it is its multi-device connectivity and 5G capabilities. It allows me to connect to my other devices easily and transfer files seamlessly, and the 5G connection allows me to stream and download large files and video conferencing without any lag. It's a great device for anyone who needs a powerful and versatile tablet, definitely worth checking out!",
+      "image": "https://m.media-amazon.com/images/I/91FCZ524BXS._AC_SX679_.jpg",
+      "date": "Jan 23, 2023",
+      "affiliate_link": "https://amzn.to/3XUWpVr"
     },
     {
       "id": "blog007",
@@ -160,6 +205,21 @@
       "image": "https://m.media-amazon.com/images/I/71ey-9D8yDL._AC_SX679_.jpg",
       "date": "Jan 19, 2023",
       "affiliate_link": "https://amzn.to/3WhZIVv"
+    },
+    {
+      "id": "blog013",
+      "title": "Garmin Venu",
+      "longer_title": "Garmin 010-02173-11 Venu, GPS Smartwatch with Bright Touchscreen Display, Features Music, Body Energy Monitoring, Animated Workouts, Pulse Ox Sensor and More, Black",
+      "type": "smart-watches",
+      "description_1": "The Garmin 010-02173-11 Venu is a GPS smartwatch with a bright touchscreen display. It is designed for fitness enthusiasts and offers a wide range of features to help users track and improve their fitness levels. One of the key features of the Venu is its music capabilities, which allows users to store and play music directly from the watch. This means users can leave their phone at home while they go for a run or workout and still have their favorite songs with them.",
+      "description_2": "Another important feature of the Venu is its body energy monitoring capabilities. This feature uses advanced sensors to track the user's activity levels and energy expenditure throughout the day. This information can be used to help users better understand their fitness needs and make adjustments to their workout routine.",
+      "description_3": "The Venu also offers animated workouts, which provide users with step-by-step instructions for various exercises. These animated workouts are designed to make it easier for users to understand how to perform exercises correctly and safely.",
+      "description_4": "In addition to its fitness features, the Venu also includes a pulse ox sensor, which measures the oxygen saturation level in the user's blood. This information can be used to help users monitor their sleep and overall health. The Venu also includes a variety of other health and wellness features, such as stress tracking, menstrual cycle tracking, and more.",
+      "description_5": "Overall, the Garmin 010-02173-11 Venu is an advanced and versatile smartwatch that is perfect for fitness enthusiasts and anyone who wants to track and improve their fitness levels. With its bright touchscreen display, music capabilities, body energy monitoring, animated workouts, pulse ox sensor and more, the Venu is a great choice for anyone looking for a high-quality smartwatch.",
+      "writer_word": "Hey, I just wanted to tell you about this amazing smartwatch I got called the Garmin Venu. It's got a really bright touchscreen display and it's perfect for fitness enthusiasts like us. It has all the fitness capabilities you could want, like tracking your body energy, animated workouts, and even a pulse ox sensor to measure your oxygen saturation levels. But it also has a cool feature where you can store and play music directly from the watch, so you can leave your phone at home and still have your tunes with you. Another thing I love about it is that it's a great buy for your buck. It's packed with features that can help you track and improve your fitness levels, and it's super user-friendly. I'm really happy with my purchase, and I think you should check it out too!",
+      "image": "https://m.media-amazon.com/images/I/51kyjYuOZhL._AC_SX679_.jpg",
+      "date": "Jan 23, 2023",
+      "affiliate_link": "https://amzn.to/3HroRZm"
     },
     {
       "id": "blog010",
